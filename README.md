@@ -1,3 +1,4 @@
+<img src="https://github.com/JadenV15/ComplX-Browser/blob/main/complx/icon.ico" alt="Icon" width=300>
 
 # ComplX Browser
 
@@ -19,4 +20,4 @@ Just contribute
 
 ## License
 
-WTFPL
+[WTFPL](https://www.wtfpl.net)
