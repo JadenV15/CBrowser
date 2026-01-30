@@ -1,4 +1,4 @@
-<img src="https://github.com/JadenV15/ComplX-Browser/blob/main/complx/icon.ico" alt="Icon" width=300>
+<img src="https://github.com/JadenV15/ComplX-Browser/blob/main/complx/icon.ico" alt="Icon" width=150>
 
 # ComplX Browser
 
