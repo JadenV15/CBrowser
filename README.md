@@ -16,7 +16,7 @@ A simple browser for simple tasks
 
 ## Contributing
 
-Just contribute
+Just do it
 
 ## License
 
