@@ -8,6 +8,10 @@ Somtimes SIMPLE is COMPLEX.
 
 Browser for bored people
 
+## What isn't it?
+
+A browser written in C
+
 ## Contributing
 
 Sure, why not?
